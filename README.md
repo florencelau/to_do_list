@@ -1,24 +1,9 @@
-# README
+# To do list app
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<img width="1471" alt="Screen Shot 2021-05-16 at 11 00 30 AM" src="https://user-images.githubusercontent.com/16376766/118408063-9807bd80-b638-11eb-8a79-226ef41d731b.png">
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+How to run the app:
+1.  `bundle install`
+2. `rails db:create`
+3. `rails db:seed`
+4. `rails s`
